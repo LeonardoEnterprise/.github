@@ -36,6 +36,4 @@ Oferecemos serviços de consultoria especializada para ajudar você a tomar deci
 
 Se você está procurando por soluções web, desenvolvimento de sites, softwares personalizados ou aplicativos móveis, a LPA Tech é a parceira ideal para impulsionar o crescimento e a transformação digital de sua empresa. Entre em contato conosco hoje mesmo para discutir suas ideias e iniciar uma jornada de sucesso tecnológico!
 
-![Visitar o site](https://www.leonardopaniz.tech)
-
-![Logo da LPA Tech](https://www.leonardopaniz.tech/assets/logo.png)
+[![Visitar o site](https://www.leonardopaniz.tech/assets/logo.png)](https://www.leonardopaniz.tech)
